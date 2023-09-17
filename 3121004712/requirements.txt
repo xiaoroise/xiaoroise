@@ -1,0 +1,10 @@
+gensim==4.3.2
+jieba==0.42.1
+line-profiler==4.1.1
+line-profiler-pycharm==1.1.0	
+numpy==1.25.2
+pip==21.3.1
+scipy==1.11.2
+setuptools==60.2.0
+smart-open==6.4.0	6
+wheel==0.37.1
