@@ -1,0 +1,10 @@
+Answer1: 3
+Answer2: 46
+Answer3: 27
+Answer4: 7/2
+Answer5: 68
+Answer6: 57/5
+Answer7: 13
+Answer8: 23
+Answer9: 8
+Answer10: 123/14
